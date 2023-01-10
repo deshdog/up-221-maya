@@ -17,4 +17,4 @@ The work from this course demonstrates:
 I'm interested in better understanding transportation efficiency models and systems analysis. I hope to find some datasets that will allow me to do this.
 
 ### Course Objective
-I feel that I have a good grasp on coding in Python and basic data science skills. I'd like to use this course as an opportunity to dive into the nitty-gritty details of urban and spatial data science (i.e. How is data science being used in the planning profession vs planning academia? What are the limitations of urban data science? How does data ethics apply here?).
+I feel that I have a good grasp on coding in Python and basic data science skills. I'd like to use this course as an opportunity to dive into the nitty-gritty details of urban and spatial data science (i.e. How is data science being used in the planning profession vs planning academia? What are the limitations of urban data science? How do data ethics apply here?).
