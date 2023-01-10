@@ -1,4 +1,4 @@
-## UP 221: GIS & Spatial Data Science
+## up-221-maya
 ### Hi, I'm Maya.
 
 I'm a first year MURP and plan to concentrate in transportation. I'm a Bay Area native now living in South Central LA. I have two cats, Bhumi and Sheba. I love anything having to do with food (growing it, cooking it, eating it)! 
